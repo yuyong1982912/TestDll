@@ -1,0 +1,5 @@
+d:\My Documents\SharpDevelop Projects\TestIOCard\TestIOCard\bin\Debug\TestIOCard.exe
+d:\My Documents\SharpDevelop Projects\TestIOCard\TestIOCard\bin\Debug\TestIOCard.pdb
+d:\My Documents\SharpDevelop Projects\TestIOCard\TestIOCard\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\SharpDevelop Projects\TestIOCard\TestIOCard\obj\Debug\TestIOCard.exe
+d:\My Documents\SharpDevelop Projects\TestIOCard\TestIOCard\obj\Debug\TestIOCard.pdb
