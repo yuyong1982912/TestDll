@@ -269,7 +269,7 @@ namespace Verification
 		/// <returns>返回功率值</returns>
 		public double GetP()
 		{
-			sP.WriteLine("FETCH:POW?");
+			sP.WriteLine(CommandTran.GetCommand("IT88XX","POW",new string[]{}));
 			System.Threading.Thread.Sleep(200);//延迟0.2S
 			string sPo=sP.ReadLine();
 			System.Threading.Thread.Sleep(200);//延迟0.2S

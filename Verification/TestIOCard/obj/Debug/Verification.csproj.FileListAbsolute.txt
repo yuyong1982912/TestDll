@@ -8,3 +8,8 @@ d:\My Documents\SharpDevelop Projects\Verification\TestIOCard\bin\Debug\Verifica
 d:\My Documents\SharpDevelop Projects\Verification\TestIOCard\obj\Debug\ResolveAssemblyReference.cache
 d:\My Documents\SharpDevelop Projects\Verification\TestIOCard\obj\Debug\Verification.exe
 d:\My Documents\SharpDevelop Projects\Verification\TestIOCard\obj\Debug\Verification.pdb
+H:\Mycode\TestDll\Verification\TestIOCard\obj\Debug\Verification.exe
+H:\Mycode\TestDll\Verification\TestIOCard\obj\Debug\Verification.pdb
+H:\Mycode\TestDll\Verification\TestIOCard\bin\Debug\Verification.exe
+H:\Mycode\TestDll\Verification\TestIOCard\bin\Debug\Verification.pdb
+H:\Mycode\TestDll\Verification\TestIOCard\obj\Debug\Verification.csprojResolveAssemblyReference.cache
